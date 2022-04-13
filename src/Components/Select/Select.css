@@ -1,0 +1,8 @@
+.contactsTop input{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+textarea:focus, input:focus{
+    outline: none;
+}

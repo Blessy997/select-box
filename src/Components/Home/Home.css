@@ -1,0 +1,33 @@
+div.home-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+div.left{
+    background-color: tomato;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15vh;
+}
+div.right{
+    background-color: brown;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15vh;
+
+}
+div.contactsTop{
+width: 300px;
+height: 45px;
+border: 1px solid #000;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+border-radius: 12px;
+}
